@@ -18,6 +18,5 @@
 ### [Task14](Task14_Infracost/README.md) - Налаштувати інструмент оцінки витрат на хмарні технології **Infracost** 
 ### [Task15](Task15_IaC_Terraform/README.md) - Підготовити інфраструктурний репозиторій для створення GKE кластеру.
 ### [Task16](Task16_tf_flux/README.md) - Створити код Terraform для Flux на kind_cluster
-### [Task17]()
-### [Task18]()
-### [Task19]()
+### [Task17](Task17_git_hook/README.md)
+### [Task18](Task18_sops_kms/README.md)
